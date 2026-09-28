@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "-tarifa-justa-colombia",
-    "slug": "snack-d5aedb0f-ac1c-4453-9031-284e48962073",
+    "name": "Tarifa Justa Colombia",
+    "slug": "tarifa-justa-colombia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.tarifajusta.colombia",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +26,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "App para consultar precios justos"
+    "description": "App para consultar precios justos en Colombia"
   }
 }
