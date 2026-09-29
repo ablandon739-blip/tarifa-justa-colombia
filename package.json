@@ -9,11 +9,12 @@
   },
   "dependencies": {
     "expo": "~54.0.37",
-    "expo-status-bar": "~3.0.9",
+    "expo-status-bar": "~3.0.8",
     "react": "19.1.0",
     "react-native": "0.81.5",
     "react-native-paper": "4.9.2",
-    "@expo/vector-icons": "^15.0.3"
+    "@expo/vector-icons": "^15.0.3",
+    "expo-font": "~13.3.2"
   },
   "private": true
 }
