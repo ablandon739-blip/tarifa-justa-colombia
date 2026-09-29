@@ -2,6 +2,7 @@
   "expo": {
     "name": "Tarifa Justa Colombia",
     "slug": "tarifa-justa-colombia",
+    "owner": "bstivens-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,6 +27,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "App para consultar precios justos en Colombia"
+    "description": "App para consultar precios justos en Colombia",
+    "extra": {
+      "eas": {
+        "projectId": "8a9741e7-2a7d-45b5-bce5-950ec16fdfdd"
+      }
+    }
   }
 }
